@@ -18,6 +18,7 @@ public class LoadTexture : MonoBehaviour
     {
         //combined the path
         combinedFilePathLocation = Path.Combine(folderPath, fileName);
+        Debug.Log(combinedFilePathLocation);
         LoadTheTexture();
     }
 

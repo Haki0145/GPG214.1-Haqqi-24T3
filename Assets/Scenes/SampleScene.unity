@@ -1269,7 +1269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ec51e21cc9a5c64bb9d867411d1f686, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectPooler: {fileID: 0}
+  objectPooler: {fileID: 1192965757}
   spawnInterval: 5
   spawnRangeX: {x: -10, y: 10}
   spawnRangeY: {x: -5, y: 5}
