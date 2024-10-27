@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.7f1
+CRC: 1642750968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55502912f5c55444d6c405b4c3a7b5de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2774ee6346dcf91b61db6f3ef0793590
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fcea0ab1f214d6e972526803626e621c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Ground.prefab
+- Assets/Audio/coin-recieved-230517.mp3
+Dependencies: []

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerStats xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <playerName>Player</playerName>
+  <playerHealth>5</playerHealth>
+  <playerPosition>
+    <x>-7.66</x>
+    <y>-2.00478029</y>
+    <z>0</z>
+  </playerPosition>
+</PlayerStats>
