@@ -883,7 +883,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinPrefab: {fileID: 1336202080981603240, guid: fa9ce9267987cab4ca61818722f40b41, type: 3}
-  poolSize: 10
+  poolSize: 9
 --- !u!4 &1192965758
 Transform:
   m_ObjectHideFlags: 0
